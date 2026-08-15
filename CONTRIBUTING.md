@@ -7,7 +7,7 @@ Thanks for your interest in improving Coffee Shop CLI! This document covers how 
 1. Fork the repository and clone your fork:
 
    ```bash
-   git clone https://github.com/<your-username>/coffee-shop-cli.git
+   git clone https://github.com/astr4n0x/coffee-shop-cli.git
    cd coffee-shop-cli
    ```
 
