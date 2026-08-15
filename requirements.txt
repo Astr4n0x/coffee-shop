@@ -1,0 +1,4 @@
+# Coffee Shop CLI has no runtime dependencies — it uses only the Python standard library.
+# The dependency below is only needed for running the test suite.
+
+pytest>=7.0
